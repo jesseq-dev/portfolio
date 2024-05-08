@@ -1,0 +1,24 @@
+{
+	"$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json",
+	"words": [
+		"Baatchia",
+		"cacheable",
+		"Chakra",
+		"cloudinary",
+		"eslintcache",
+		"INELEC",
+		"msedge",
+		"nextjs",
+		"Parens",
+		"Preact",
+		"pwa",
+		"scms",
+		"solidjs",
+		"turborepo",
+		"undici",
+		"vite",
+		"webp",
+		"xmark"
+	],
+	"ignorePaths": ["pnpm-lock.yaml", "dist", "public"]
+}
