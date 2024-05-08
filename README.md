@@ -6,7 +6,7 @@
 
 <p align="center"><h1 align="center">My Portfolio</h1></p>
 
-[Live preview](https://cloud-runner-llc.netlify.app/)
+[Live preview](https://jesseq-dev.github.io/portfolio/)
 
 ## Installation
 

@@ -5,7 +5,7 @@ const Footer = () => {
 		<div class='footer'>
 			<div class='container'>
 				<div class='footer-text px-15'>
-					<p>&copy;2024 CloudRunner LLC.</p>
+					<p>&copy;2024 CloudRunner LLC</p>
 				</div>
 			</div>
 		</div>
