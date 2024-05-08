@@ -8,7 +8,11 @@ const About = () => (
 				<p class='about-text'>{ABOUT.introduction}</p>
 			</div>
 			<div class='resume-section'>
-				<iframe src='/docs/resume.pdf' width='100%' height={600} />
+				<iframe
+					src='https://jesseq-dev.github.io/portfolio/docs/resume.pdf'
+					width='100%'
+					height={600}
+				/>
 			</div>
 		</div>
 	</section>
